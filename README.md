@@ -5,7 +5,9 @@ Abortion EU, Data sources
 
 Last update	2018.01.31 07:31
 Description	Abortions per 1000 live births
-Reference: https://dw.euro.who.int/api/v3/measures/HFA_586?lang=En
+Reference:
+https://dw.euro.who.int/api/v3/measures/HFA_586?lang=En
+https://gateway.euro.who.int/en/indicators/hfa_586-7010-abortions-per-1000-live-births/
 
 Copyright
 © WHO Regional Office for Europe 2018.
